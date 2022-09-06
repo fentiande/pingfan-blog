@@ -1,4 +1,4 @@
-baseURL = 'https://fentiande.github.io/pingfan-blog/'
+baseURL = 'https://blog.zhoupeng.site/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "anatole"
