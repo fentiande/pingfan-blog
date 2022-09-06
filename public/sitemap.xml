@@ -2,17 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.zhoupeng.site/life/first_day/</loc>
-    <lastmod>2022-09-05T17:59:01+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.zhoupeng.site/life/</loc>
-    <lastmod>2022-09-05T17:59:01+08:00</lastmod>
-  </url><url>
     <loc>https://blog.zhoupeng.site/</loc>
     <lastmod>2022-09-05T17:59:01+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.zhoupeng.site/post/first_day/</loc>
+    <lastmod>2022-09-05T17:59:01+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.zhoupeng.site/post/</loc>
+    <lastmod>2022-09-05T17:59:01+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.zhoupeng.site/post/%E5%BC%80%E5%8F%91%E5%A4%A9%E6%9D%A1/</loc>
+    <lastmod>2022-09-05T17:59:01+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.zhoupeng.site/post/%E6%8F%90%E6%B5%8B%E8%A7%84%E8%8C%83/</loc>
+    <lastmod>2022-09-05T17:59:01+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.zhoupeng.site/post/%E7%A0%94%E5%8F%91%E4%B8%AD%E5%BF%83%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E7%BC%96%E5%86%99%E8%A7%84%E8%8C%83/</loc>
+    <lastmod>2022-09-05T17:59:01+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.zhoupeng.site/post/%E7%A0%94%E5%8F%91%E4%B8%BB%E7%AE%A1%E5%B7%A5%E4%BD%9C%E6%8C%87%E5%BC%95/</loc>
+    <lastmod>2022-09-05T17:59:01+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.zhoupeng.site/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://blog.zhoupeng.site/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.zhoupeng.site/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://blog.zhoupeng.site/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

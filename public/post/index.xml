@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>周鹏的博客</title>
-    <link>https://blog.zhoupeng.site/</link>
-    <description>Recent content on 周鹏的博客</description>
+    <title>Posts on 周鹏的博客</title>
+    <link>https://blog.zhoupeng.site/post/</link>
+    <description>Recent content in Posts on 周鹏的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 05 Sep 2022 17:59:01 +0800</lastBuildDate><atom:link href="https://blog.zhoupeng.site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Sep 2022 17:59:01 +0800</lastBuildDate><atom:link href="https://blog.zhoupeng.site/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First_day</title>
       <link>https://blog.zhoupeng.site/post/first_day/</link>
@@ -103,25 +103,6 @@
       <guid>https://blog.zhoupeng.site/post/%E7%A0%94%E5%8F%91%E4%B8%BB%E7%AE%A1%E5%B7%A5%E4%BD%9C%E6%8C%87%E5%BC%95/</guid>
       <description>研发主管工作指引 文件状态： 【 】草稿 【 】待审 【√ 】正式发布 【 】正在修改 当前版本 V1.0 作 者 李晓俊、钟俊 完成日期 2020年06月27日 保密级别 内部（R3） 修订历史
 编号 描述 日期 作者 签发人 V1.0 2020/6/27 李晓俊、钟俊 王勇 整体框架 说明： 四星以上为必须开展的工作 任务项名称 重要性 每日工作汇总 ★★★★★ 关注redmine ★★★★★ 需求的分析、设计、评审 ★★★★★ 项目组内人员工作的安排及进度监督（计划跟踪、发包管理） ★★★★ 代码review及指导 ★★★★ 跨部门沟通、协调 ★★★★ TH-ERP处理（请假、出差、加班审批，工时录入） 每周工作汇总 ★★★★★ 关注sonar ★★★★ 例会 ★★★★ 项目周报检视（检查进度、处理风险） ★★ 知识总结分享 每月工作汇总 ★★★★ 知识总结分享 ★★★★ TH-ERP工时登记检查（月底） ★★★★ 部门工作日加班、出差补贴汇总 ★★★★ 绩效定义、考评 ★★★ 正式沟通（绩效、发展） 每日工作汇总 工作项一 ★★★★★ 关注redmine 工作开展 1.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://blog.zhoupeng.site/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.zhoupeng.site/about/</guid>
-      <description>Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://blog.zhoupeng.site/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.zhoupeng.site/contact/</guid>
-      <description>如有问题或有事咨询，请发送到我的邮箱,我会第一时间回复您!
-你的名字电邮地址需要电子邮件地址。信息</description>
     </item>
     
   </channel>

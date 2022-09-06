@@ -1,4 +1,44 @@
-baseURL = 'https://blog.zhoupeng.site/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "anatole"
+#baseURL = 'https://blog.zhoupeng.site/'
+#languageCode = 'zh'
+#title = '周鹏的博客'
+#theme = "ananke"
+
+
+title = "周鹏的博客"
+baseURL = "https://blog.zhoupeng.site/"
+languageCode = "zh"
+theme = ["ananke"]
+resourceDir = "resources"
+disqusShortname = "zhoupeng"
+
+DefaultContentLanguage = "zh"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+[languages.zh]
+title = "周鹏的博客"
+weight = 2
+contentDir = "content/zh"
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
+
+[params]
+text_color = ""
+author = ""
+favicon = ""
+site_logo = ""
+#description = "从今天开始，开启新世界的大门"
+description = ""
+background_color_class = "bg-black"
+recent_posts_number = 3
+commentoEnable = true
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/GoHugoIO"
