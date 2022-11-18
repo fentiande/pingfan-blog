@@ -9,11 +9,11 @@
 <video src=''></video>
 
 
-<video width="640" height="385" controls>
+<video controls>
     <source src='{{ .Get "src" }}' type="video/mp4">
     <source src='{{ .Get "src" }}' type="video/ogg">
     <source src='{{ .Get "src" }}' type="video/webm">
-    <object data='{{ .Get "src" }}' width="640" height="385">
-        <embed src='{{ .Get "src" }}' width="640" height="385">
+    <object data='{{ .Get "src" }}' >
+        <embed src='{{ .Get "src" }}' >
     </object>
 </video>
