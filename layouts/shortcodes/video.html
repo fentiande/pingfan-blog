@@ -1,0 +1,19 @@
+<!--<div class="embed video-player">
+    <iframe class="youtube-player" type="text/html" width="640" height="385" src='{{ .Get "src" }}' allowfullscreen frameborder="0">
+    </iframe>
+</div>-->
+
+
+<!--<iframe height=498 width=510 src='{{ .Get "src" }}'></iframe>-->
+
+<video src=''></video>
+
+
+<video width="640" height="385" controls>
+    <source src='{{ .Get "src" }}' type="video/mp4">
+    <source src='{{ .Get "src" }}' type="video/ogg">
+    <source src='{{ .Get "src" }}' type="video/webm">
+    <object data='{{ .Get "src" }}' width="640" height="385">
+        <embed src='{{ .Get "src" }}' width="640" height="385">
+    </object>
+</video>
